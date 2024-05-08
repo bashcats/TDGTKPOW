@@ -116,5 +116,5 @@ wsl --install
 ```
 
 Follow the steps through then restart your computer. When it reboots you will be able to access your new
-shell: Just open Command Prompt (or Powershell) again and type "bash" then Enter. Congratulations you are
+shell: just open Command Prompt (or Powershell) again and type "bash" then Enter. Congratulations you are
 now a Linux User.
