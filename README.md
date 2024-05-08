@@ -6,12 +6,12 @@ explore how the multitasking features work and create an index of the available 
 Anyone considered computer literate would be aware of the following common shortcuts which are
 available in many applications and on all major operating systems.
 
-Ctrl + A	Select all content.
-Ctrl + C (or Ctrl + Insert)	Copy selected items to clipboard.
-Ctrl + X	Cut selected items to clipboard.
-Ctrl + V (or Shift + Insert)	Paste content from clipboard.
-Ctrl + Z	Undo an action.
-Ctrl + Y	Redo an action. (Sometimes Ctrl + Shift + Z)
+Ctrl + A	Select all content.\
+Ctrl + C (or Ctrl + Insert)	Copy selected items to clipboard.\
+Ctrl + X	Cut selected items to clipboard.\
+Ctrl + V (or Shift + Insert)	Paste content from clipboard.\
+Ctrl + Z	Undo an action.\
+Ctrl + Y	Redo an action. (Sometimes Ctrl + Shift + Z)\
 
 We should optimize the tasks which we perform the most often. If you're using a computer for more
 than just web browsing then it would be wise to familiarize yourself with the keyboard shortcuts for
