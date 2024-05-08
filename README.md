@@ -47,9 +47,9 @@ Sometimes I like to put windows side-by-side so I can see two open apps at once.
 and drag it to the edge of the screen, it should snap to take half the view of your screen. The same can
 be achieved with the keyboard simply use Win-Left and Win-Right to move the position of the focused app.
 
-Using the `Windows key` with the 'arrow keys' works well for changing the size and position of windows.
+Using the `Windows key` with the `arrow keys` works well for changing the size and position of windows.
 Just using up, down, left, and right you can make any application take up half or a quadrant of your
-screen space and can even fullscreen and minimize windows using 'Win' + 'Up' and 'Win' + 'Down'.
+screen space and can even fullscreen and minimize windows using `Win` + `Up` and `Win` + `Down`.
 
 Win-Ctrl-(Left/Right)  -- change between virtual desktops\
 Alt-Tab / Alt-Shift-Tab  -- change between windows on current desktop\
@@ -86,7 +86,7 @@ I like to have a keyboard shortcut for my web browser and terminal. Set it to so
 like Ctrl-Shift-W for (W)eb browser. Many applications can be closed instantly by just pressing Ctrl-W.
 
 ## Inside File Explorer
--- change the view between list/icons/detailed with Ctrl-Shift-'Numbers 1-8`\
+-- Change the view between list/icons/detailed with Ctrl-Shift-`Numbers 1-8`\
 -- Alt-Left or Alt-Right: go forward or back through your file-exploring history\
 -- Alt-Up: move up the directory tree hierarchy\
 -- Ctrl-W: close the window\
