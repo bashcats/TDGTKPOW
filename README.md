@@ -50,10 +50,10 @@ Using the `Windows key` with the 'arrow keys' works well for changing the size a
 Just using up, down, left, and right you can make any application take up half or a quadrant of your
 screen space and can even fullscreen and minimize windows using 'Win' + 'Up' and 'Win' + 'Down'.
 
-Win-Ctrl-(Left/Right)  -- change between virtual desktops
-Alt-Tab / Alt-Shift-Tab  -- change between windows on current desktop
-Alt-Escape  -- change between recent apps cleanly
-Win-Tab  -- open virtual desktop menu
+Win-Ctrl-(Left/Right)  -- change between virtual desktops\
+Alt-Tab / Alt-Shift-Tab  -- change between windows on current desktop\
+Alt-Escape  -- change between recent apps cleanly\
+Win-Tab  -- open virtual desktop menu\
 Win-ArrowKeys  -- change position/size of focused window
 
 Launching a new application is pretty easy and in my opinion it would be pretty silly to rely on a mouse
@@ -61,11 +61,11 @@ to do so. Press Win-Q or Win-S (or just Win) to open the search menu to launch a
 name of the app then Enter when it appears. Apps pinned to the task bar are of course tempting to click
 on, so try *right* clicking one to see what`s inside the jump menu for that app, might be useful.
 
-Win-'Number'  -- launch an app at position `Number` in taskbar
+Win-'Number'  -- launch an app at position `Number` in taskbar\
 Win-Alt-`Number`  -- open the "jump menu" for application at associated index `Number` in taskbar
 
-Win-D  -- show the desktop
-Win-V  -- show the clipboard (copy-paste) history/menu (you can have more than one item copied at a time)
+Win-D  -- show the desktop\
+Win-V  -- show the clipboard (copy-paste) history/menu (you can have more than one item copied at a time)\
 Win-. or Win-;  -- access emojis
 
 You can press Win-E to open the File (E)xplorer. You can also create custom shortcuts to launch your most
@@ -73,35 +73,35 @@ used app with ease. Instructions for doing so: first pin the app to your taskbar
 bar). If you don't want to add it to the taskbar that's okay, you can find the `properties` menu with a
 right-click on the icon then set the shortcut.
 
-Once you have pinned the app to your taskbar follow these steps:
-  -- right click the desired icon
-  -- above "unpin", right click the name of the program
-  -- left click properties
-  -- left click "shortcut key" box
-  -- type in your desired keyboard combination
+Once you have pinned the app to your taskbar follow these steps:\
+  -- right click the desired icon\
+  -- above "unpin", right click the name of the program\
+  -- left click properties\
+  -- left click "shortcut key" box\
+  -- type in your desired keyboard combination\
   -- left click ok
 
 I like to have a keyboard shortcut for my web browser and terminal. Set it to something easy to remember
 like Ctrl-Shift-W for (W)eb browser. Many applications can be closed instantly by just pressing Ctrl-W.
 
 ## Inside File Explorer
--- change the view between list/icons/detailed with Ctrl-Shift-'Numbers 1-8`
--- Alt-Left or Alt-Right: go forward or back through your file-exploring history
--- Alt-Up: move up the directory tree hierarchy
--- Ctrl-W: close the window
--- Ctrl-T: open new tab
--- Ctrl-Shift-N: create new folder
--- Ctrl-Z: Undo an action, including undelete files (limited).
+-- change the view between list/icons/detailed with Ctrl-Shift-'Numbers 1-8`\
+-- Alt-Left or Alt-Right: go forward or back through your file-exploring history\
+-- Alt-Up: move up the directory tree hierarchy\
+-- Ctrl-W: close the window\
+-- Ctrl-T: open new tab\
+-- Ctrl-Shift-N: create new folder\
+-- Ctrl-Z: Undo an action, including undelete files (limited).\
 -- Ctrl-Y: Redo an action
 
 ## Inside the web browser
--- Alt-Left: move back in history
--- Alt-Right: move forward through history
--- Ctrl-T: new tab
--- Ctrl-W: close tab
--- Ctrl-Shift-T: reopen closed tab
--- Ctrl-F: find in page
--- Ctrl-J: view DOWN loads
+-- Alt-Left: move back in history\
+-- Alt-Right: move forward through history\
+-- Ctrl-T: new tab\
+-- Ctrl-W: close tab\
+-- Ctrl-Shift-T: reopen closed tab\
+-- Ctrl-F: find in page\
+-- Ctrl-J: view DOWN loads\
 -- Ctrl-K: look UP something with Google Search
 
 Once you have tried out the commands listed above and have explored configuring your taskbar and keyboard
