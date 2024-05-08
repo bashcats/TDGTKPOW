@@ -95,7 +95,7 @@ like Ctrl-Shift-W for (W)eb browser. Many applications can be closed instantly b
 -- Ctrl-Z: Undo an action, including undelete files (limited).\
 -- Ctrl-Y: Redo an action
 
-## Inside the web browser
+## Inside "The Web Browser"
 -- Alt-Left: move back in history\
 -- Alt-Right: move forward through history\
 -- Ctrl-T: new tab\
