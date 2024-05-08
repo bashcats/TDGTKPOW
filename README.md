@@ -61,7 +61,7 @@ to do so. Press Win-Q or Win-S (or just Win) to open the search menu to launch a
 name of the app then Enter when it appears. Apps pinned to the task bar are of course tempting to click
 on, so try *right* clicking one to see what`s inside the jump menu for that app, might be useful.
 
-Win-'Number'  -- launch an app at position `Number` in taskbar\
+Win-`Number`  -- launch an app at position `Number` in taskbar\
 Win-Alt-`Number`  -- open the "jump menu" for application at associated index `Number` in taskbar
 
 Win-D  -- show the desktop\
