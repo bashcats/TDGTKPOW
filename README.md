@@ -11,7 +11,7 @@ Ctrl + C (or Ctrl + Insert)	Copy selected items to clipboard.\
 Ctrl + X	Cut selected items to clipboard.\
 Ctrl + V (or Shift + Insert)	Paste content from clipboard.\
 Ctrl + Z	Undo an action.\
-Ctrl + Y	Redo an action. (Sometimes Ctrl + Shift + Z)\
+Ctrl + Y	Redo an action. (Sometimes Ctrl + Shift + Z)
 
 We should optimize the tasks which we perform the most often. If you're using a computer for more
 than just web browsing then it would be wise to familiarize yourself with the keyboard shortcuts for
@@ -23,7 +23,7 @@ open apps this 'Task View' becomes unmanageable with too many apps to cycle thro
 different order.
 
 The solution is to use the `Virtual Desktop` feature. You can press Win-Tab to open the virtual desktop
-menu and add a new `Virtual Desktop`. This menu provides a view of the `Virtual Desktops` you have made
+menu and add a new virtual desktop. This menu provides a view of the workspaces/desktops you have made
 and you can use the mouse to create new ones and switch between them. The easiest way to switch between
 the workspaces/virtual desktops you create is to use the Win-Ctrl-Left and Win-Ctrl-Right to cycle back
 and forth.
