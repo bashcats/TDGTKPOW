@@ -33,7 +33,7 @@ Another convenient feature to make use of in Windows is the task bar. Add the ap
 most often to the task bar, and also consider the ordering they are arranged. Apps added to the taskbar
 can instantly launched, or (if already open) switched to. Obviously you can click on the icons in the
 task bar to launch the application, but another option is to use the `Windows key` + `number` to open
-the application at that position in the task bar. 'Windows key' + 'Alt' + 'number' opens the jump menu
+the application at that position in the task bar. `Windows key` + `Alt` + `number` opens the jump menu
 for that particular application.
 
 I would try to use just 1-3 apps per each virtual desktop so that the Alt-Tab feature is less cluttered.
