@@ -11,7 +11,8 @@ Ctrl + C (or Ctrl + Insert)	Copy selected items to clipboard.\
 Ctrl + X	Cut selected items to clipboard.\
 Ctrl + V (or Shift + Insert)	Paste content from clipboard.\
 Ctrl + Z	Undo an action.\
-Ctrl + Y	Redo an action. (Sometimes Ctrl + Shift + Z)
+Ctrl + Y	Redo an action. (Sometimes Ctrl + Shift + Z)\
+Ctrl + W  Close a tab or window.
 
 We should optimize the tasks which we perform the most often. If you're using a computer for more
 than just web browsing then it would be wise to familiarize yourself with the keyboard shortcuts for
